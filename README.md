@@ -1,3 +1,14 @@
+For run with simple execution:
+$ php challenge.php
+
+For run with class implementarion execution:
+$ php index.php
+
+For run Unit Test:
+$ ./phpunit test/challengetest.php
+
+Problem
+
 # Challenge – Backend Developer
 Write a program that prints all the numbers from 1 to 100. However, for
 multiples of 3, instead of the number, print "Falabella". For multiples of 5 print
